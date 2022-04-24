@@ -11,7 +11,7 @@ At the very bottom of the screen, you will find links
 
 ## Link to Deployed Website
 
-[View the working website here!](https://moetive.github.io/02-Advanced-CSS-Portfolio-/)
+[View the working website here!](https://moetive.github.io/03-JavaScript-Password-Generator/)
 
 ## Author
 
